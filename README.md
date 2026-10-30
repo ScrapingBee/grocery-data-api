@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="grocery-data-api" />
+    <img src="https://github.com/user-attachments/assets/c812d2e3-ba00-4e91-9a6d-64636a5c6bcd" alt="grocery-data-api" />
   </a>
 </p>
+
 
 [![checks](https://github.com/ScrapingBee/grocery-data-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/grocery-data-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/grocery-data-api.svg)](LICENSE)
